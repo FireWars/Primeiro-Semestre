@@ -1,0 +1,4 @@
+exer 4 a) somar os contadores,mudar o nome de varialvel, usar metodo e fazer d) fazer no final
+
+
+
